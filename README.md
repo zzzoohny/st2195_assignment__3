@@ -11,7 +11,7 @@
 list:
 1. A 'README.md' file with a short markdown description of assignment and reference to DataExpo 2009 data, and the Harvard Dataverse.
 2. A folder called 'r_sql' with a R code for constructing the database (from csv inputs) and executing the following queries. The latter should be done using both DBI and dplyr notation. 
-    a. Which airplanes has the lowest associated average departure delay(excluding cancelled and diverted flights)?
-    b. Which cities has the highest number of inbound flights(excluding cancelled flights)?
-    c. Which companies has the highest number of cancelled flights?
-    d. Which companies has the highest number of cancelled flights, relative to their number of total flights?
+a. Which airplanes has the lowest associated average departure delay(excluding cancelled and diverted flights?
+b. Which cities has the highest number of inbound flights(excluding cancelled flights)?
+c. Which companies has the highest number of cancelled flights?
+d. Which companies has the highest number of cancelled flights, relative to their number of total flights?
