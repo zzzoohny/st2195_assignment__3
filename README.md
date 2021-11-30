@@ -15,3 +15,9 @@ a. Which airplanes has the lowest associated average departure delay(excluding c
 b. Which cities has the highest number of inbound flights(excluding cancelled flights)?
 c. Which companies has the highest number of cancelled flights?
 d. Which companies has the highest number of cancelled flights, relative to their number of total flights?
+
+3. A folder called 'python_sql' with a Python version of the code in point2, based on sqlite3. 
+
+4. A simplified solution fo the query in point 2(d) in either R or Python (placed either in the R or Python "*_sql" folder) 
+
+*** R and Python Scripts should save the output of the queries in csv within their respective folders.
