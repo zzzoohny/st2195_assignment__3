@@ -140,4 +140,5 @@ q4_simplified <- inner_join(ontime_db, carriers_db, by = c("UniqueCarrier" = "Co
 
 print(head(q4_simplified, 1))
 
+# Disconnecting from connection
 dbDisconnect(conn)
